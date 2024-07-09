@@ -1,0 +1,7 @@
+Good Article
+
+https://www.yegor256.com/2015/08/25/fail-fast.html
+
+Fail Safe approach conceals problems and makes code less maintainable, and that’s why it’s difficult to stabilize.
+
+
